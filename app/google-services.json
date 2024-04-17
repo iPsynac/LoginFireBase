@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946611061072",
+    "project_id": "fir-login-6e4b0",
+    "storage_bucket": "fir-login-6e4b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946611061072:android:9fc3a7ac482e76f1fa2c55",
+        "android_client_info": {
+          "package_name": "mx.edu.potro.practica10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJjiwiAXb_eYg96sTGDdJeQhAyBFV88to"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
